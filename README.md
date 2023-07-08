@@ -1,4 +1,4 @@
-# PlantWateringProject
+# Plant Watering Project
 
 The goal was to create a Java program that can control a Grove Beginner Kit for Arduino running Firmata4J 
 and that when running this Arduino device, it can sense soil moisture in a chosen plant. The Arduino device 
